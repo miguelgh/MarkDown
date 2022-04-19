@@ -31,7 +31,7 @@ Las negritas y cursivas se crean con asteriscos, con 1 * se crea una cursiva, co
 ## Enlaces
 Los enlaces se utilizan los corchetes [ como texto ancla y seguido del corchete sin espacios, entre paréntesis el link.
 
-[Esto es un link](htttps://www.atrezzo.com.ar)
+[Esto es un link](https://www.atrezzo.com.ar)
 
 Para agregar un enlace directo se escribe dentro de los simbolos menor < y mayor>
 
